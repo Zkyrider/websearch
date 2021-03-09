@@ -8,3 +8,6 @@ fisrt commit with some issues in ccs file and default value in 'letters' row
 rewerite funcion without hard values in 'phrase' and 'letters'
 added method 'POST', some vars in function do_search, also debug mode for app
 =================================================================================
+09.03.2021
+border padding issue fixed
+=================================================================================
